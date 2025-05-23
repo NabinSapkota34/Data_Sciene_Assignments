@@ -123,3 +123,10 @@ tuple7 = (10, 20, 30, 40)
 index_30 = tuple7.index(30)
 print("9. Index of element 30:", index_30)
 
+
+
+
+
+
+
+
