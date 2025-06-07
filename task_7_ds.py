@@ -58,3 +58,7 @@ def user_profile(name, age=18, *hobbies, **extra_info):
         print("No additional info provided.")
 
 user_profile("Rajesh", 25, "Reading", "Cycling", city="Kathmandu", profession="Engineer")
+
+
+
+
